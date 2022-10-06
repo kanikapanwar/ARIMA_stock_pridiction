@@ -1,1 +1,1 @@
-# ARIMA_stock_pridiction
+# ARIMA_stock_prediction
