@@ -1,1 +1,1 @@
-# ARIMA_stock_prediction
+# Stock_Price_Prediction_Using_ARIMA_&_FbProphet
